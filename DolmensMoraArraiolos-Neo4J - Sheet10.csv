@@ -1,0 +1,301 @@
+ID,Data (Sensor),Concelho,Freguesia,Latitude,Longitude,Altitude,Geologia,Visualizacao,DescriçãoDGPC,QualidadedaImagem,Dimensao,AlturaAtual,AlturaEstimadaNoPassado,Forma,Esteios,Conservacao,Chapeu,Corredor,Mamoa,TipoRocha,AfloramentoRochoso,Relevo,LinhaAgua,VegetacaoTipo,COS2015,COS2015DefinicaoLevel5,ProximidadesCOS
+Andorinhos 1,9/1/2013,Arraiolos,Arraiolos,38.686419,-8.012764,310,MO,Yes,Yes,Good,2.0,n/a,n/a,n/a,5,Good,Yes,No,No,n/a,Yes,No,No,Silvas,FMN,FPM,PAP
+Anta da Vila de Arraiolos,8/5/2017,Arraiolos,Arraiolos,38.713838,-7.987539,300,YQ,Yes,Yes,Good,5.0m,n/a,n/a,Polygonal,3,n/a,Fraturado,No,No,Granito,No,No,No,Zona urbana,SAF,SCPC,SAF/CT/VIN
+Anta das Silvadas,8/5/2017,Arraiolos,Arraiolos,38.76086,-8.020244,0,YP,No,Yes,Good,n/a,n/a,n/a,Polygonal,n/a,n/a,n/a,n/a,Resto,n/a,No,No,No,Densa,SAF,SA,SAF/SS
+Anta de Santana do Campo,n/a,Arraiolos,Arraiolos,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Anta de Alcarou de Baixo 5,8/5/2017,Arraiolos,Arraiolos,38.826451,-8.025183,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,No,Muito Densa,SAF,SA,SAF/SA
+Anta da Estação de Arraiolos,8/5/2017,Arraiolos,Arraiolos,38.724383,-7.96048,n/a,YP,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,No,Muito Densa,SAF,SAFF,PAP
+Balanqueira 1,n/a,Arraiolos,Arraiolos,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Destruido,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Balanqueira 2,9/1/2013,Arraiolos,Arraiolos,38.69234,-7.999924,326,MO,Yes,Yes,Good,n/a,n/a,n/a,Polygonal,n/a,n/a,n/a,n/a,n/a,n/a,No,No,No,Zona de plantação,PAP,PAP,PAP
+Balanqueira 3,n/a,Arraiolos,Arraiolos,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,Polygonal,n/a,Não Localizado,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Carias,n/a,Arraiolos,Arraiolos,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Não Localizado,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Coelhas,8/5/2017,Arraiolos,Arraiolos,38.750381,-8.04826,0,MO,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,Yes,Yes,Rasteira,PAP,PAP,SAF/SS
+Coelhas 2,8/5/2017,Arraiolos,Arraiolos,38.752384,-8.053825,303,YP,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,No,Muito Densa,SAF,SAFF,SAF/SA
+Courela,n/a,Arraiolos,Arraiolos,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Folgos 1,8/5/2017,Arraiolos,Arraiolos,38.690049,-8.042515,280,YQ,Yes,Yes,Good,n/a,n/a,n/a,Polygonal,7,Good,n/a,n/a,No,Granito,Yes,No,Yes,Densa,PAP,PAP,PAP
+França,8/5/2017,Arraiolos,Arraiolos,38.702551,-8.019508,320,YQ,Yes,Yes,Good,3.0,n/a,n/a,Polygonal,7,Good,No,Yes,Yes,Granito,No,Yes,No,Densa,SAF,SA,TA/OIDEL
+Herdade da Oleirita 1,8/5/2017,Arraiolos,Arraiolos,38.749336,-7.965254,235,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Destruído,n/a,n/a,n/a,n/a,No,No,Yes,Rasteira,SAF,CTSR,PAP
+Herdade dos Mogos,8/5/2017,Arraiolos,Arraiolos,38.749336,-7.965254,260,YQ,No,Yes,Good,n/a,n/a,n/a,Polygonal,1,Bad,n/a,n/a,n/a,Granito,No,No,Yes,Rasteira,SAF,SS,SAF/SA/CTSR
+Ilhas 1,8/5/2017,Arraiolos,Arraiolos,38.721646,-7.965411,295,YP,No,Yes,Good,n/a,n/a,n/a,n/a,3,Bad,n/a,n/a,n/a,Granito,No,No,No,Rasteira,PAP,PAP,PAP
+Loirinha,n/a,Arraiolos,Arraiolos,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Mata,8/5/2017,Arraiolos,Arraiolos,38.832952,-8.042707,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Monte da Freixa,4/2/2015,Arraiolos,Arraiolos,38.743311,-8.039239,340,MO,Yes,Yes,Good,3.5,n/a,n/a,Polygonal,7,Good,Yes,Yes,Vestígio,Granito,No,No,No,Rasteira,SAF,CTSR,SAF/SA
+Monte do Seixinho,8/5/2017,Arraiolos,Arraiolos,38.783568,-8.140204,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Muito Densa,SAF,SAFF,SAF/SA
+Mousinha 1,8/5/2017,Arraiolos,Arraiolos,38.757189,-7.990385,250,MO,No,Yes,Good,n/a,2.5,n/a,Polygonal,4,Bad,n/a,n/a,Vestígio,n/a,No,No,No,Rasteira,SAF,SS,SAF/SA/CTSR
+Pastaneira 1,8/5/2017,Arraiolos,Arraiolos,38.720527,-8.02478,320,YQ,Yes,Yes,Good,2.5,n/a,n/a,Polygonal,5,Bad,Yes,Yes,Destruída,Granito,Yes,Yes,No,Densa,PAP,PAP,PAP
+Quatrim,8/5/2017,Arraiolos,Arraiolos,38.697088,-8.035276,300,YQ,Yes,Yes,Good,2.0,n/a,n/a,Circular,4,Bad,Fraturado,n/a,n/a,n/a,Yes,Yes,Yes,Rasteira,SAF,CTSR,SAF/CTSR
+Santiago 1/ Anta do Santiago 1,8/5/2017,Arraiolos,Arraiolos,38.697039,-8.030724,290,YQ,Yes,Yes,Good,2.5,n/a,n/a,Polygonal,7,Good,Yes,n/a,n/a,Granito,Yes,Yes,No,Densa,SAF,CTSR,SAF/CTSR
+Santiago 2/ Anta do Santiago 2,8/5/2017,Arraiolos,Arraiolos,38.694535,-8.031118,290,YQ,Yes,Yes,Good,2.5,n/a,n/a,Circular,1,Bad,No,n/a,n/a,Granito,Yes,Yes,Yes,Zona de Plantação,SAF,CTSR,SAF/CTSR
+Santiago 3/ Anta do Santiago 3,8/5/2017,Arraiolos,Arraiolos,38.697894,-8.029504,300,YQ,Yes,Yes,Good,3.0,3.0,n/a,Polygonal,4,Bad,No,n/a,n/a,n/a,Yes,No,No,Zona de Plantação,SAF,CTSR,SAF/CTSR
+Santiago 8,8/5/2017,Arraiolos,Arraiolos,38.698678,-8.029756,300,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Granito,No,No,No,Rasteira,SAF,CTSR,SAF/CTSR
+Telhal 1,8/5/2017,Arraiolos,Arraiolos,38.701127,-7.97977,340,YQ,Yes,Yes,Good,1.5,n/a,n/a,Polygonal,7,Good,n/a,n/a,n/a,Granito,Yes,Yes,No,Densa,PAP,PAP,PAP
+Almargem,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.785461,-7.800456,270,Y,No,Yes,Bad,2.5,n/a,n/a,Polygonal,n/a,Good,n/a,Yes,Yes,Granito,No,Yes,No,Densa,SAF,SAFF,SAF/SA
+Anta 2ª do Peral,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,14.0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Anta 3ª do Peral,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,1.7,n/a,Retangular,n/a,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Anta 4ª do Peral,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Bad,n/a,No,Vestígio,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Anta 5ª do Peral,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,2.0,n/a,n/a,Circular,5,Bad,n/a,n/a,Vestígio,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Anta de São Pedro da Gafanhoeira,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.741689,-8.067661,n/a,MO,Yes,No,Good,n/a,n/a,n/a,Polygonal,8,n/a,Partido,Yes,n/a,Granito,No,No,Yes,Muito Densa,SAF,SA,SAF/SA
+Anta do Monte dos Soldos,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.768492,-8.136967,230,Y,Yes,Yes,Good,2.5,n/a,n/a,Polygonal,7,Good,Yes,Yes,Vestígio,n/a,Yes,No,Yes,Densa,SAF,SA,SAF/SS
+Besteiros 4,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,2,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Besteiros 5,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,3,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Cabeça Gorda,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.841677,-8.067224,,YR,Yes,No,Good,2.5,n/a,n/a,Polygonal,6,Good,Yes,Yes,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Cabeça Gorda 1,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Cabeça Gorda 2,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Cabeça Gorda 3,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Chaminé 1,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.74015,-8.083789,245,MO,Yes,Yes,Good,2.50,2.30,n/a,Polygonal,7,Good,Yes,n/a,n/a,Granito,Yes,No,No,Densa,PAP,PAP,SAF/SAFF
+Coelhas 1,8/5/2-17,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.748815,-8.051368,332,MO,No,Yes,Good,n/a,1.8,n/a,Polygonal,7,Bad,n/a,Yes,n/a,n/a,Yes,Yes,No,Muito Densa,SAF,SA,PAP
+Courela dos Fretes 1,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,2,Bad,n/a,n/a,Vestígio,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Courela dos Fretes 3,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,1.45,n/a,n/a,3,Bad,n/a,No,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Espanadeira,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.78219,-8.125174,n/a,YR,No,No,Bad,n/a,n/a,n/a,n/a,7,n/a,n/a,n/a,n/a,n/a,No,Yes,No,Muito Densa,FMN,FA,FMN/FA
+Filtreira 1,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.726142,-8.038744,300,YQ,Yes,Yes,Good,2.5,n/a,n/a,Circular,5,Good,Partida,No,No,n/a,Yes,Yes,No,Densa,SAF,CT,PAP
+Folgos,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.687326,-8.051207,0,YQ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Rasteira,PAP,PAP,PAP
+Golões 1,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.720998,-8.050836,290,YQ,No,Yes,Good,n/a,n/a,n/a,Polygonal,6,Good,n/a,Yes,No,Granito,No,No,No,Rasteira,PAP,PAP,SAF/SA
+Golões 2,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.721891,-8.051916,290,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,3,Bad,Partido,n/a,n/a,n/a,No,No,No,Densa,SAF,SA,PAP
+Golões 3,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.725149,-8.061514,265,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,4,Bad,n/a,n/a,n/a,n/a,No,No,No,Rasteira,SAF,CTSR,SAF/SA
+Golões 4,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,Good,n/a,n/a,n/a,Polygonal,6,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Groal 1,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.747925,-8.052726,326,MO,Yes,Yes,Good,n/a,2.6,n/a,n/a,2,Bad,n/a,n/a,n/a,n/a,No,Yes,No,Muito Densa,SAF,SA,SAF/SA
+Hortas 2,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.71365,-8.042267,312,YQ,No,Yes,Bad,n/a,n/a,n/a,n/a,3,Bad,n/a,n/a,n/a,Granito,No,No,No,Rasteira,PAP,PAP,SAF/CTSR/SAFF
+Lagar do Zambujo,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.732184,-8.048155,236,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,4,n/a,Partido,n/a,n/a,Granito,No,No,No,Densa,PAP,PAP,SAF/CTSR
+Monte da Espadaneira 1,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,9,Good,Yes,Yes,Yes,Granito,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte da Espadaneira 2,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,1.8,n/a,Trapezoidal,n/a,Bad,n/a,n/a,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte da Espadaneira 3,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,1.6,n/a,Retangular,3,Bad,n/a,No,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte da Espadaneira 4,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,4,Bad,n/a,No,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte das Fazendas 2,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.704909,-8.080215,280,YQ,Yes,Yes,Good,n/a,n/a,n/a,n/a,5,n/a,No,No,Vestígio,n/a,No,Yes,Yes,Muito Densa,PAP,PAP,H20/PA
+Monte das Luzes 1,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.708868,-8.071337,260,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,2,Bad,n/a,n/a,n/a,Granito,No,Yes,No,Densa,SAF,SA,SAF/ARR/CTSR
+Monte das Luzes 2,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.707182,-8.069108,276,YQ,Yes,Yes,Good,n/a,n/a,n/a,Polygonal,7,n/a,Partido,n/a,n/a,Granito,No,Yes,No,Densa,SAF,SA,SAF/ARR/CTSR
+Monte de Santo Estevão 1/Repreza,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.717021,-8.096142,290,MO,No,Yes,Good,n/a,n/a,n/a,Circular,3,n/a,Partido,No,No,Granito,Yes,Yes,No,Densa,SAF,CTSR,PAP
+Monte de Santo Estevão 2,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.715354,-8.093223,290,YQ,No,Yes,Good,n/a,n/a,2,n/a,1,Bad,n/a,n/a,Yes,Quartzo,Yes,Yes,No,Zona de Plantação,SAF,CTSR,PAP
+Monte do Carvalheiro 1,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.711036,-8.084683,290,MO,No,Yes,Good,1.7,1.7,n/a,n/a,5,Bad,Partido,No,No,Quartzo/Granito,No,No,Yes,Rasteira,SAF,CTSR,PAP
+Monte do Outeiro 1/ Anta 4 dos Testos,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.719228,-8.073122,298,MO,Yes,Yes,Good,n/a,n/a,n/a,n/a,1, Bad,Partido,n/a,n/a,Granito,Yes,Yes,No,Densa,PAP,PAP,SAF/CTSR
+Monte dos Delgados 3,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.694246,-8.068763,290,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,No,No,Densa,SAF,SA,SAF/CTSR
+Monte dos Pretos,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Outeiro de Santa Clara,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,Polygonal,7,Good,Yes,Yes,Vestígio,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Pastaneira de Morgado,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.719475,-8.037177,310,YQ,Yes,Yes,Good,2.0,n/a,n/a,n/a,3,Bad,Partido,n/a,n/a,Granito,No,No,Yes,Rasteira,PAP,PAP,SAF/SA
+Peral,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Picanceiras 1,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,Poligonal,7,n/a,n/a,Yes,Vestigio,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Picanceiras 2,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Picanceiras 3,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,Poligonal,7,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Picanceiras 4,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.745208,-8.045908,350,MO,No,Yes,Good,n/a,n/a,n/a,n/a,2,Bad,n/a,n/a,n/a,Granito,No,Yes,No,Rasteira,SAF,CTSR,SAF/SA
+Picanceiras 5,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.744966,-8.046345,n/a,MO,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,Yes,No,Rasteira,SAF,CTSR,SAF/SA
+Pinheiro 1,8/5/2017,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.749592,-8.089282,239,YR,Yes,Yes,Bad,n/a,2.35,n/a,n/a,3,Bad,n/a,n/a,Vestigio,Granito,No,No,Yes,Densa,SAF,SA,SAF/SA
+Seixalinho,n/a,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,8,n/a,n/a,n/a,Vestigio,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+São Pedro da Gafanhoeira 1,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.741863,-8.068169,250,MO,Yes,Yes,Good,n/a,n/a,n/a,Polygonal,6,Good,Yes,Yes,Vestígio,Granito,No,No,No,Densa,SAF,SA,SAF/SS
+São Pedro da Gafanhoeira 2,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.74409,-8.072227,288,YQ,No,Yes,Good,n/a,1.7,n/a,Polygonal,4,Good,n/a,Yes,Vestígio,Granito,Yes,Yes,No,Densa,SAF,SA,SAF/SS
+Testos,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.728556,-8.083935,0,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Zona de Plantação,PAP,PAP,PAP
+Testos 1,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.729448,-8.084188,285,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,6,n/a,Partido,Yes,n/a,n/a,No,No,Yes,Zona de Plantação,PAP,PAP,PAP
+Velada das Hortas 1,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.711153,-8.052376,306,YQ,No,Yes,Good,n/a,n/a,n/a,n/a,6,Bad,Fraturado,No,No,Granito,No,Yes,No,Densa,SAF,CTSR,SAF/CTSR
+Zambujeiro 1/Anta 3 dos Testos,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.73058,-8.076309,255,MO,No,Yes,Good,2.0,1.8,n/a,Polygonal,5,Good,No,Yes,No,n/a,No,No,No,Zona de Pasto,PAP,PAP,PAP
+Zambujeiro 2,4/2/2015,Arraiolos,Gafanhoeira (São Pedro) e Sabugueiro,38.731122,-8.080863,280,MO,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,No,Yes,No,Zona de Plantação,FMN,FPM,FMN/FPM
+Anta,n/a,Arraiolos,Igrejinha,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Barrocal de Degebe,n/a,Arraiolos,Igrejinha,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Cabeças,4/2/2015,Arraiolos,Igrejinha,38.683317,-7.896003,n/a,MO,Yes,No,Good,5.0,n/a,n/a,Trapeizodal,9,Good,Yes,Yes,n/a,n/a,No,Yes,No,Rasteira,SAF,SS,PAP
+Cabido,n/a,Arraiolos,Igrejinha,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Chainha 1,n/a,Arraiolos,Igrejinha,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Chainha 2,n/a,Arraiolos,Igrejinha,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Entre Águas,n/a,Arraiolos,Igrejinha,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Resmunhal,,Arraiolos,Igrejinha,38.666374,-7.884915,0,Y,No,Yes,-,1.5,n/a,n/a,Ferradura,3,Bad,No,n/a,n/a,n/a,No,No,No,Zona de Plantação,FMN,FS,PAP
+Rosmaninhal,n/a,Arraiolos,Igrejinha,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Arrolans,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Mendo Marques de Baixo,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte Guerreira,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte da Igreja,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Murteira de Baixo,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.840426,-7.944405,,YR,Yes,No,Good,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SS,PAP
+Murteira de Cima 1,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Murteira de Cima 2,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Prates 1,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.836576,-7.969065,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,Yes,No,Rasteira,SAF,SA,SAF/SA
+Prates 2,9/1/2013,Arraiolos,São Gregório e Santa Justa,38.848165,-7.950568,n/a,YR,Yes,No,Good,2.5,n/a,n/a,Polygonal,3,Good,Yes,n/a,n/a,n/a,No,Yes,No,Densa,SAF,SA,SAF/SA
+Prates 3,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,Yes,n/a,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Prates 4,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.862712,-7.966268,165,YR,No,Yes,Good,2.15,n/a,n/a,Polygonal,7,Good,n/a,Yes,n/a,n/a,no,No,No,Rasteira,SAF,SA,SAF/SA
+Prates 5,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.855337,-7.954356,n/a,YR,Yes,No,Good,3.0,n/a,n/a,Polygonal,7,Good,No,n/a,n/a,n/a,Yes,Yes,No,Rasteira,SAF,SA,SAF/SA
+Prates 6,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.853839,-7.953372,n/a,YR,Yes,No,Good,3.0,n/a,n/a,Circular,3,Good,Yes,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Prates 7,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.855313,-7.95052,n/a,YR,Yes,No,Good,2.0,n/a,n/a,Polygonal,5,n/a,n/a,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Anta de S. Gregório 1,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.80424,-7.920016,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,No,Densa,SAF,SA,PAP
+Anta de S. Gregório 2,8/5/2017,Arraiolos,São Gregório e Santa Justa,38.804475,-7.916079,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,Yes,No,Densa,PAP,PAP,SAF/SA
+Vale de Gião,n/a,Arraiolos,São Gregório e Santa Justa,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Alfaiates 3,8/5/2017,Arraiolos,Vimieiro,38.785521,-7.800487,225,Y,Yes,Yes,Good,1.80,1.30,,Polygonal,n/a,Good,Yes,3.0,n/a,n/a,No,No,Yes,Rasteira,PAP,PAP,SAF/SA
+Anta da Camaroeira 1,8/5/2017,Arraiolos,Vimieiro,38.852623,-7.869162,n/a,YR,Yes,No,Good,3.0,n/a,n/a,Polygonal,4,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,SAF/SA
+Anta da Camaroeira 2,8/5/2017,Arraiolos,Vimieiro,38.852372,-7.86772,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Anta da Camaroeira 6,8/5/2017,Arraiolos,Vimieiro,38.852142,-7.874693,n/a,YR,Yes,No,Good,n/a,n/a,n/a,n/a,2,Good,No,n/a,n/a,n/a,Yes,No,No,Densa,SAF,SA,SAF/SA
+Anta da Courela da Granada da Anta,8/5/2017,Arraiolos,Vimieiro,38.797345,-7.880841,255,Y,Yes,Yes,Bad,n/a,n/a,1.10,n/a,7,Bad,No,Yes,No,n/a,No,No,No,Zona de Plantação,SAF,CTSR,SAF/CTSR
+Anta dos Soeiros 3,8/5/2017,Arraiolos,Vimieiro,38.863628,-7.871149,0,YZ,Yes,Yes,Bad,1.2,n/a,n/a,n/a,6,Bad,n/a,Yes,n/a,n/a,No,No,No,Zona de Plantação,PAP,PAP,SAF/SA
+Bardeira,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Casas Velhas 2,8/5/2017,Arraiolos,Vimieiro,38.862348,-7.963504,166,YR,No,Yes,Good,n/a,n/a,n/a,n/a,6,Bad,Partido,Yes,n/a,n/a,Yes,Yes,Yes,Rasteira,SAF,SA,PAP
+Claros Montes 1,8/5/2017,Arraiolos,Vimieiro,38.889111,-7.910899,n/a,J,Yes,No,Good,2.5,n/a,n/a,n/a,3,Good,No,n/a,n/a,n/a,Yes,No,Yes,Densa,PAP,PAP,PAP
+Claros Montes 2,8/5/2017,Arraiolos,Vimieiro,38.89163,-7.916111,n/a,YZ,Yes,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Zona de Plantação,SAF,CTSR,SAF/SA
+Claros Montes 3,8/5/2017,Arraiolos,Vimieiro,38.892989,-7.918413,n/a,YZ,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,Yes,Yes,Zona de Plantação,PAP,PAP,SAF/SA
+Claros Montes 4,8/5/2017,Arraiolos,Vimieiro,38.885324,-7.914692,n/a,YZ,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,PAP,PAP,PAP
+Claros Montes 5,8/5/2017,Arraiolos,Vimieiro,38.886904,-7.916994,n/a,YZ,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,PAP
+Claros Montes 6,8/5/2017,Arraiolos,Vimieiro,38.9002,-7.921271,n/a,YZ,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Cré 4,8/5/2017,Arraiolos,Vimieiro,38.862447,-7.969955,174,YR,Yes,Yes,Good,2.6,n/a,n/a,n/a,6,n/a,n/a,Yes,Yes,n/a,Yes,No,Yes,Densa,SAF,SA,SAF/SA
+Defesa do Gato 1,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Defesa do Gato 2,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Farinha Velha,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Marmeleira 1,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Marmeleira 2,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Marmeleira 3,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Marmeleira 4,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte da Caeira 1,8/5/2017,Arraiolos,Vimieiro,38.875754,-7.95013,n/a,YR,Yes,No,Good,2.5,n/a,n/a,Polygonal,7,Good,Yes,n/a,n/a,n/a,Yes,No,No,Densa,SAF,SA,SAF/SA
+Monte da Caeira 2,8/5/2017,Arraiolos,Vimieiro,38.882462,-7.948376,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,No,Muito Densa,SAF,SA,PAP
+Monte da Caeira 3,9/1/2013,Arraiolos,Vimieiro,38.884273,-7.952657,n/a,YR,Yes,No,Good,2.0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,No,Rasteira,PAP,PAP,SAF/SA
+Monte da Caeira 4,8/5/2017,Arraiolos,Vimieiro,38.884273,-7.952657,n/a,YR,No,No,Good,n/a,n/a,n/a,n/a,n/a,Good,Yes,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Monte da Caeira 5,8/5/2017,Arraiolos,Vimieiro,38.883429,-7.951943,n/a,YR,Yes,No,Good,2.5,n/a,n/a,Poligonal,7,Good,Yes,n/a,n/a,n/a,No,Yes,No,Densa,SAF,SA,SAF/SA
+Monte da Caeira 6,8/5/2017,Arraiolos,Vimieiro,38.888698,-7.949702,n/a,YZ,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Muito Densa,H2O,CAN,SAF/SA
+Monte da Caeira 7,8/5/2017,Arraiolos,Vimieiro,38.887194,-7.95445,n/a,YZ,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Rasteira,PSP,PSP,SAF/SA
+Monte da Caeira 8,8/5/2017,Arraiolos,Vimieiro,38.886964,-7.956751,n/a,YZ,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SA,PAP
+Olival,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Prates 4,8/5/2017,Arraiolos,Vimieiro,38.862712,-7.966268,165,YR,No,Yes,Good,2.15,n/a,n/a,Poligonal,7,Good,Tombado,Yes,n/a,n/a,Yes,No,No,Rasteira,SAF,SA,SAF/SA
+Preta,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Ribeira da Fargela,8/5/2017,Arraiolos,Vimieiro,38.847719,-7.790546,0,S1,No,Yes,Good,n/a,n/a,1.2,n/a,n/a,Bad,n/a,n/a,Yes,Xisto,No,Yes,Yes,Densa,SAF,SA,SAF/SA
+Serva,8/5/2017,Arraiolos,Vimieiro,38.886097,-7.864576,n/a,S1,No,No,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Santo Espírito 1,8/5/2017,Arraiolos,Vimieiro,38.868472,-7.861476,n/a,Y,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,No,Muito Densa,SAF,SA,SAF/SA
+Santo Espírito 2,8/5/2017,Arraiolos,Vimieiro,38.869377,-7.862097,n/a,Y,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,No,No,Muito Densa,SAF,SA,SAF/SA
+Soeiros 1,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Soeiros 2,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Tourega 1,8/5/2017,Arraiolos,Vimieiro,38.878496,-7.877842,0,J,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,No,Zona de Plantação,SAF,CTSR,SAF/SA
+Tourega 2,8/5/2017,Arraiolos,Vimieiro,38.878489,-7.874673,200,YZ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,No,Densa,SAF,SA,SAF/CTSR
+Tourego 1,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Tourisios,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Vale de Moura,8/5/2017,Arraiolos,Vimieiro,38.897651,-7.883825,0,S1,No,Yes,-,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,No,Muito Densa,SAF,SAFF,PAP
+Vale de Mouro,n/a,Arraiolos,Vimieiro,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Anta 6 de Santa Cruz,4/2/2015,Mora,Brotas,38.852245,-8.148166,0,YR,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Destruído,n/a,n/a,n/a,n/a,No,No,No,Densa,SAF,OLI,SAF/SA
+Anta do Carvalho,4/2/2015,Mora,Brotas,38.832284,-8.128941,183,YR,No,Yes,Bad,n/a,n/a,n/a,n/a,5,n/a,Yes,Yes,Vestígio,n/a,Yes,No,Yes,Muito Densa,SAF,SA,SAF/SA
+Aviz,4/2/2015,Mora,Brotas,38.859062,-8.080137,239,YR,No,Yes,-,n/a,n/a,n/a,n/a,n/a,Não Localizado,n/a,n/a,n/a,n/a,Yes,No,Yes,Agua,SAF,SS,SAF/SA
+Barros de Grou 1,4/2/2015,Mora,Brotas,38.842966,-8.115598,169,YR,Yes,Yes,Good,2.5,n/a,n/a,Polygonal,8,Good,Yes,Yes,Yes,n/a,No,No,No,Densa,SAF,SA,SAF/SA
+Besteiros,5/25/2013,Mora,Brotas,38.819322,-8.14231,0,YR,Yes,Yes,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,Yes,Yes,Rasteira,SAF,SA,PAP
+Besteiros 1,5/25/2013,Mora,Brotas,38.825266,-8.14611,182,YR,Yes,Yes,Good,2.6,n/a,n/a,Polygonal,7,Good,Yes,Yes,Vestígio,n/a,Yes,No,No,Densa,SAF,SA,SAF/SA
+Besteiros 10,4/12/2015,Mora,Brotas,38.826797,-8.149796,180,YR,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Rasteira,SAF,SA,SAF/SA
+Besteiros 11,4/12/2015,Mora,Brotas,38.819322,-8.139776,180,YR,Yes,Yes,Good,n/a,n/a,n/a,n/a,1,Bad,n/a,n/a,Vestígio,n/a,Yes,Yes,Yes,Rasteira,SAF,SA,SAF/SA
+Besteiros 2,4/12/2015,Mora,Brotas,38.826887,-8.149911,182,YR,No,Yes,Good,n/a,n/a,n/a,Retangular,n/a,Bad,n/a,n/a,Vestígio,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Besteiros 3,4/12/2015,Mora,Brotas,38.81761,-8.134365,182,YR,No,Yes,Good,2,n/a,n/a,n/a,4,n/a,Partido,Yes,Vestígio,n/a,Yes,Yes,Yes,Rasteira,SAF,SA,SAF/SA
+Besteiros 9,4/12/2015,Mora,Brotas,38.828689,-8.150833,183,YR,No,Yes,Good,n/a,n/a,n/a,n/a,2,n/a,Yes,n/a,Vestígio,n/a,No,No,No,Densa,SAF,SA,SAF/SA
+Brissos 1,5/25/2013,Mora,Brotas,38.869761,-8.097955,134,YR,Yes,Yes,Good,2.7,n/a,n/a,Polygonal,7,Bad,Yes,Yes,Vestígio,n/a,Yes,No,Yes,Densa,FMN,FA,FMN/FA
+Brissos 2,5/25/2013,Mora,Brotas,38.870841,-8.096226,146,YR,Yes,Yes,Good,n/a,n/a,n/a,n/a,2,Bad,Deslocado,n/a,n/a,n/a,Yes,Yes,Yes,Rasteira,FMN,FA,FMN/FA
+Brissos 3,5/25/2013,Mora,Brotas,38.871563,-8.097954,180,YR,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Destruido,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Rasteira,FMN,FA,FMN/FA
+Brissos 4,5/25/2013,Mora,Brotas,38.867961,-8.10314,100,YR,No,Yes,Good,2.0,n/a,n/a,Polygonal,7,Bad,Yes,Yes,n/a,n/a,Yes,Yes,Yes,Densa,FMN,FA,FMN/FA
+Brissos 5,5/25/2013,Mora,Brotas,38.867328,-8.093923,133,YR,No,Yes,Bad,n/a,n/a,n/a,n/a,2,Bad,n/a,Yes,n/a,n/a,Yes,Yes,No,Muito Densa,FMN,FA,FMN/M
+Brissos 6,5/25/2013,Mora,Brotas,38.866156,-8.092195,140,YR,No,Yes,Bad,2.3,n/a,n/a,Polygonal,n/a,Bad,Partido,Yes,n/a,n/a,Yes,Yes,Yes,Muito Densa,FMN,M,FMN/FA
+Brissos 7,5/25/2013,Mora,Brotas,38.874714,-8.093573,140,YR,Yes,Yes,Good,1.9,n/a,n/a,Quadrangular,7,n/a,n/a,Yes,n/a,n/a,Yes,Yes,Yes,Densa,FMN,FA,FMN/FA
+Brotas,n/a,Mora,Brotas,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Não Localizado,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Cabeceira 1,5/25/2013,Mora,Brotas,38.855533,-8.12538,157,YR,Yes,Yes,Good,2.0,n/a,n/a,n/a,7,n/a,Yes,Yes,Vestígio,n/a,Yes,No,No,Rasteira,SAF,SA,PAP
+Cabeceira 2,5/25/2013,Mora,Brotas,38.854606,-8.126831,0,YR,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,n/a,No,Yes,Yes,Rasteira,SAF,SA,PAP
+Cabeceira 3,5/25/2013,Mora,Brotas,38.8542,-8.125495,0,YR,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Destruido,n/a,n/a,n/a,n/a,Yes,No,No,Densa,SAF,SA,PAP
+Cabeceira 4,5/25/2013,Mora,Brotas,38.853741,-8.128225,0,YR,No,Yes,Good,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,Vestígio,n/a,Yes,No,No,Densa,SAF,SS,SAF/SA
+Cabeceira 5,5/25/2013,Mora,Brotas,38.8522,-8.119735,150,YR,No,Yes,Good,n/a,n/a,n/a,n/a,7,n/a,Yes,Yes,Yes,n/a,Yes,No,Yes,Densa,SAF,SA,SAF/SA
+Cabeceira 6,4/2/2015,Mora,Brotas,38.852926,-8.117496,n/a,YR,Yes,No,Good,n/a,n/a,n/a,n/a,3,Destruído,n/a,n/a,n/a,n/a,Yes,No,Yes,Densa,SAF,SS,SAF/SS
+Carvalho 3,4/2/2015,Mora,Brotas,38.833951,-8.130058,183,YR,No,Yes,Good,n/a,n/a,n/a,n/a,5,Bad,n/a,n/a,Vestígio,n/a,Yes,No,Yes,Densa,SAF,SA,SAF/SA
+Courela do Moinho,4/2/2015,Mora,Brotas,38.851062,-8.078772,0,QQ,No,Yes,Bad,n/a,n/a,n/a,n/a,6,n/a,Tombado,Yes,Vestígio,n/a,No,No,No,Densa,SAF,SA,SAF/SA
+Monte da Figueirinha 3,4/2/2015,Mora,Brotas,38.945979,-7.984946,n/a,S1,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,CTSR,SAF/CTSR
+Herdade do Pequito Velho 1,4/2/2015,Mora,Brotas,38.948792,-7.970368,n/a,Q4,No,No,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Densa,PAP,PAP,PAP
+Herdade do Pequito Velho 2,4/2/2015,Mora,Brotas,38.947329,-7.970042,n/a,S1,No,No,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Densa,PAP,PAP,PAP
+Mamoa do Monte da Courela,4/2/2015,Mora,Brotas,38.855157,-8.089874,0,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,n/a,Yes,No,Yes,Muito Densa,SAF,SAFF,SAF/SA
+Monte das Figueiras 1,4/2/2015,Mora,Brotas,38.87508,-8.116966,90,QQ,No,Yes,Good,2.0,n/a,n/a,n/a,7,Bad,n/a,Yes,Vestígio,n/a,Yes,No,Yes,Zona de Plantação,SAF,CTRS,SAF/CTSR
+Monte das Figueiras 2,4/2/2015,Mora,Brotas,38.876881,-8.118233,90,QQ,No,Yes,Good,n/a,n/a,n/a,Polygonal,2,Bad,n/a,n/a,Vestígio,n/a,Yes,No,Yes,Zona de Plantação,SAF,CTRS,SAF/CTSR
+Monte das Figueiras 3,4/2/2015,Mora,Brotas,38.877242,-8.118233,90,QQ,No,Yes,Good,3.0,n/a,n/a,n/a,0,Destruído,n/a,n/a,n/a,n/a,Yes,No,Yes,Zona de Plantação,SAF,CTRS,SAF/SA
+Monte das Águias,4/2/2015,Mora,Brotas,38.875621,-8.126184,0,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Densa,PAP,PAP,SAF/CTRS
+Olheiros 1,n/a,Mora,Brotas,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Olheiros 2,n/a,Mora,Brotas,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Placas,n/a,Mora,Brotas,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Porto de Aviz de Baixo,5/25/2013,Mora,Brotas,38.857318,-8.079826,n/a,YR,Yes,No,Good,2.5,n/a,n/a,Polygonal,4,Bad,Yes,Yes,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SS,SAF/SA
+Santa Cruz 1,5/25/2013,Mora,Brotas,38.85184,-8.137706,170,YR,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,n/a,No,No,No,Densa,SAF,SA,SAF/SA
+Santa Cruz 2,5/25/2013,Mora,Brotas,38.851173,-8.146991,0,YR,Yes,Yes,Good,3.5,n/a,n/a,Circular,7,Good,No,No,n/a,Granito,No,Yes,No,Densa,SAF,SA,SAF/SA
+Santa Cruz 3,5/25/2013,Mora,Brotas,38.851696,-8.138213,0,YR,No,Yes,Bad,n/a,n/a,n/a,Trapeizodal,5,n/a,n/a,No,Yes,n/a,No,No,No,Densa,SAF,SA,SAF/SA
+Torre das Águias 1,5/25/2013,Mora,Brotas,38.872918,-8.115468,89,QQ,No,Yes,Bad,2.3,n/a,n/a,Polygonal,7,n/a,No,Yes,n/a,n/a,Yes,No,No,Zona de Plantação,SAF,CTSR,SAF/SA - SMN/FOF
+Torre das Águias 2,5/25/2013,Mora,Brotas,38.874089,-8.115237,89,YR,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Destruído,n/a,n/a,n/a,n/a,Yes,No,Yes,Zona de Plantação,SAF,CTSR,FMN\FOF
+Torre das Águias 3,5/25/2013,Mora,Brotas,38.872017,-8.115007,89,QQ,No,Yes,Bad,n/a,n/a,n/a,n/a,1,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,CTSR,SAF/SA - SMN/FOF
+Anta dos Pardais 4,5/25/2013,Mora,Cabeção,38.942085,-8.034769,95,QQ,Yes,Yes,Good,n/a,n/a,n/a,Polygonal,7,Bad,No,n/a,n/a,n/a,No,No,Yes,Zona de Plantação,PAP,PAP,PAP
+Barros de Grou 2,5/25/2013,Mora,Cabeção,38.839701,-8.115043,0,YR,No,Yes,Good,1.9,n/a,n/a,n/a,5,n,n/a,Yes,Vestígio,n/a,No,No,No,Densa,SAF,SA,SAF/SA
+Moita 1,5/25/2013,Mora,Cabeção,38.962823,-8.109678,0,Q1,No,Yes,Good,3.5,n/a,n/a,Polygonal,n/a,Good,n/a,Yes,n/a,Granito,Yes,No,Yes,Zona de Plantação,SAF,CTSR,SAF/CTSR
+Moita 2,5/25/2013,Mora,Cabeção,38.962481,-8.109632,0,Q1,No,Yes,Good,3.5,n/a,n/a,Retangular,9,Good,n/a,n/a,n/a,n/a,No,No,Yes,Zona de Plantação,SAF,CTSR,SAF/CTSR
+Pardais 1,5/25/2013,Mora,Cabeção,38.942785,-8.043131,85,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,3,Bad,n/a,n/a,n/a,Granito,No,No,Yes,Zona de Plantação,SAF,SS,SAF/SA
+Pardais 2,5/25/2013,Mora,Cabeção,38.945844,-8.038398,113,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,1,Bad,n/a,n/a,n/a,n/a,No,Yes,No,Zona de Plantação,PAP,PAP,PAP
+Pardais 3,5/25/2013,Mora,Cabeção,38.944939,-8.032747,100,QQ,Yes,Yes,Good,2.5,n/a,n/a,Ferradura,3,Bad,n/a,Yes,n/a,n/a,Yes,Yes,Yes,Zona de Plantação,SAF,CTSR,SAF/CTSR
+Anta dos Píncaros,5/25/2013,Mora,Mora,38.992185,-8.191331,0,YMM,No,Yes,Good,n/a,n/a,n/a,n/a,3,n/a,Tombado,n/a,n/a,Granito,No,Yes,No,Muito Densa,SAF,SS,SAF/SS
+Adua 1,8/5/2017,Mora,Pavia,38.904915,-8.025886,180,PCG,Yes,Yes,Good,3.1,2.0,n/a,Polygonal,7,Good,Partido,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Adua 2,8/5/2017,Mora,Pavia,38.908996,-8.030837,170,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Adua 3,8/5/2017,Mora,Pavia,38.910437,-8.030259,150,YZZ,No,Yes,Bad,1.6,n/a,n/a,Circular,8,Good,n/a,Yes,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Adua 4,8/5/2017,Mora,Pavia,38.912329,-8.031409,140,YZZ,Yes,Yes,Bad,1.6,n/a,n/a,Circular,6,Good,Yes,Yes,Vestígio,Granito,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Adua 5,8/5/2017,Mora,Pavia,38.906832,-8.028073,170,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,2,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Adua 6,9/1/2013,Mora,Pavia,38.903419,-8.040875,161,YR,Yes,Yes,Bad,n/a,n/a,n/a,Circular,2,Bad,Partido,Yes,n/a,n/a,Yes,Yes,Yes,Densa,SAF,OLI,SAF/SA-PAP
+Adua 7,8/5/2017,Mora,Pavia,38.906805,-8.039487,165,YR,No,Yes,Bad,n/a,n/a,n/a,Ferradura,3,Bad,n/a,n/a,Yes,Quartzo,Yes,Yes,Yes,Densa,PAP,PAP,SAF/SA
+Alcarou de Baixo 1,4/2/2015,Mora,Pavia,38.841011,-8.050388,0,YR,Yes,Yes,Bad,1.7,n/a,n/a,n/a,7,Good,Yes,Yes,Yes,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,FMN/FA
+Alcarou de Baixo 2,4/2/2015,Mora,Pavia,38.840255,-8.050757,0,YR,No,Yes,Bad,n/a,n/a,n/a,n/a,7,Good,Partido,Yes,Yes,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,FMN/FA
+Alcarou de Baixo 3,4/2/2015,Mora,Pavia,38.841444,-8.050756,0,YR,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,FMN/FA
+Alcarou de Baixo 4,4/2/2015,Mora,Pavia,38.840073,-8.050724,0,YR,No,No,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,FMN,FA,SAF/SA
+Alcarou de Baixo 5,4/2/2015,Mora,Pavia,38.826447,-8.025171,0,YR,No,No,Bad,n/a,n/a,n/a,n/a,7,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Anta de Pavia/Capela de São Dinis,4/2/2015,Mora,Pavia,38.894013,-8.017499,190,YR,Yes,Yes,Good,4.0,3.3,3.3,Polygonal,7,Good,Yes,Yes,No,Granito,No,No,No,Zona Urbana,TA,TUC,TA/TUC
+Antões 1,4/2/2015,Mora,Pavia,38.909335,-8.009162,160,YZZ,Yes,Yes,Bad,2.5,n/a,3.0,Polygonal,6,Bad,Partido,Yes,n/a,n/a,No,No,Yes,Densa,SAF,SA,SAF/SA
+Antões 2,4/2/2015,Mora,Pavia,38.908885,-8.009163,160,YZZ,No,Yes,Bad,2,2.5,n/a,Oblonga,6,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Densa,SAF,SA,SAF/SA
+Antões 3,4/2/2015,Mora,Pavia,38.928966,-8.003362,120,YZZ,Yes,Yes,Good,3.0,n/a,n/a,Trapeizodal,7,Good,Yes,n/a,Vestígio,n/a,No,Yes,Yes,Rateira,FMN,FA,SAF/FA/CTRS/
+Antões 4,4/2/2015,Mora,Pavia,38.912765,-8.016074,180,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,7,Bad,n/a,n/a,n/a,n/a,No,Yes,Yes,Densa,SAF,SA,SAF/SA
+Antões 5,4/2/2015,Mora,Pavia,38.909159,-8.012391,180,YZZ,No,Yes,Bad,2.0,n/a,n/a,Trapeizodal,6,Bad,n/a,n/a,n/a,n/a,No,Yes,Yes,Densa,SAF,SA,SAF/SA
+Antões 6,4/2/2015,Mora,Pavia,38.906455,-8.010896,180,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,5,Bad,n/a,n/a,n/a,n/a,No,Yes,Yes,Densa,SAF,SA,SAF/SA
+Barroca 3,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,2.2,n/a,n/a,Polygonal,n/a,n/a,n/a,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Casa Branca 1,4/2/2015,Mora,Pavia,38.911343,-8.036598,0,YZZ,Yes,Yes,Good,1.6,n/a,n/a,Circular,7,n/a,n/a,n/a,Vestígio,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Casa Branca 2,4/2/2015,Mora,Pavia,38.913244,-8.048356,0,YZZ,Yes,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,Vestígio,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Casa Branca 3,4/2/2015,Mora,Pavia,38.918388,-8.063455,0,YZZ,Yes,Yes,Bad,3.0,1.3,n/a,n/a,10,n/a,Partido,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Casa Branca 4,4/2/2015,Mora,Pavia,38.908477,-8.060352,153,YR,No,Yes,Bad,1.8,n/a,n/a,n/a,2,Bad,n/a,n/a,Vestígio,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Casa Branca 5,4/2/2015,Mora,Pavia,38.926949,-8.069789,149,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,4,n/a,n/a,Yes,n/a,n/a,Yes,Yes,Yes,Densa,FMN,FA,SAF/SA
+Casas Velhas 1,9/1/2013,Mora,Pavia,38.863783,-7.959468,163,YR,Yes,Yes,Good,n/a,n/a,n/a,Polygonal,7,Bad,Tombado,Yes,n/a,n/a,Yes,Yes,Yes,Densa,PAP,PAP,SAF/SA
+Condes 1,9/1/2013,Mora,Pavia,38.905858,-7.936531,n/a,YZZ,No,No,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,No,No,Muito Densa,FMN,FA,SAF/SA
+Condes 2,9/1/2013,Mora,Pavia,38.907211,-7.937681,n/a,YZZ,No,No,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,No,Yes,Muito Densa,FMN,FA,SAF/SA
+Considreiro 1,9/1/2013,Mora,Pavia,38.939208,-8.088002,100,YZZ,No,Yes,Bad,2.6,n/a,n/a,Polygonal,8,Bad,No,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,SAF/SA
+Covatos,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Cré 1,9/1/2013,Mora,Pavia,38.86434,-7.970988,173,YR,Yes,Yes,Good,2.1,n/a,n/a,n/a,8,Good,Yes,Yes,n/a,n/a,No,No,Yes,Rasteira,SAF,SA,SAF/SA
+Cré 2,9/1/2013,Mora,Pavia,38.864613,-7.972946,159,YR,No,Yes,Good,2.1,n/a,n/a,Polygonal,7,n/a,n/a,Yes,n/a,n/a,Yes,Yes,No,Densa,SAF,SA,SAF/SA
+Cré 3,9/1/2013,Mora,Pavia,38.868314,-7.978929,164,YR,No,Yes,Good,n/a,n/a,n/a,n/a,5,n/a,n/a,n/a,Vestígio,n/a,No,No,No,Pasto,SAF,CTSR,TA/ICE
+Entreáguas 1,4/2/2015,Mora,Pavia,38.937381,-8.043714,100,Q3,No,Yes,Bad,3.5,n/a,n/a,Polygonal,5,Bad,Tombado,n/a,n/a,n/a,Yes,No,Yes,Muito Densa,PAP,PAP,PAP
+Entreáguas 2,4/2/2015,Mora,Pavia,38.938823,-8.04452,96,Q3,No,Yes,Bad,n/a,n/a,n/a,n/a,4,Bad,n/a,n/a,n/a,n/a,No,No,Yes,Rasteira,PAP,PAP,PAP
+Entreáguas 3,4/2/2015,Mora,Pavia,38.938462,-8.04429,15,Q3,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,No,No,Yes,Densa,PAP,PAP,PAP
+Entreáguas 4,4/2/2015,Mora,Pavia,38.938644,-8.046596,0,Q3,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Destruida,n/a,n/a,n/a,n/a,No,No,Yes,Densa,PAP,PAP,PAP
+Ferragial da Fonte,5/25/2013,Mora,Pavia,38.899627,-8.029352,0,YR,Yes,Yes,Good,2.4,n/a,n/a,n/a,6,Bad,n/a,n/a,n/a,n/a,Yes,No,Yes,Rasteira,PAP,PAP,SAF/SA/OLI
+Ferragial de Nossa Senhora,8/5/2017,Mora,Pavia,38.891147,-8.016686,190,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Destruída,n/a,n/a,n/a,n/a,No,No,No,Densa,FMN,FE,TA/TUC-SAF/SAFF
+Figueiras 1,8/5/2017,Mora,Pavia,38.900112,-7.979207,90,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,7,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Zona de Plantação,SAF,SA,SAF/SA
+Figueiras 2,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,3,Bad,n/a,n/a,Vestígio,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Figueirinhas 3,8/5/2017,Mora,Pavia,38.94372,-7.987764,98,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,4,n/a,n/a,n/a,Vestígio,n/a,No,No,Yes,Densa,SAF,CTSR,SAF/CTSR
+Folha da Anta,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Forca Velha,4/2/2015,Mora,Pavia,38.898996,-8.029929,0,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Destruído,n/a,n/a,n/a,n/a,No,No,Yes,Rasteira,PAP,PAP,SAF/SA/OLI
+Freixo,4/2/2015,Mora,Pavia,38.882938,-8.004713,154,YR,No,Yes,Bad,n/a,n/a,n/a,n/a,1,Bad,n/a,n/a,n/a,n/a,Yes,No,No,Muito Densa,FMN,FE,FMN/FE
+Gonçala 1,4/2/2015,Mora,Pavia,38.94024,-8.017298,93,QQ,Yes,Yes,Good,3.0,n/a,n/a,Polygonal,8,Good,Yes,Yes,Vestígio,n/a,Yes,Yes,Yes,Densa,SAF,SA,FMN/FA
+Gonçala 2,4/2/2015,Mora,Pavia,38.944193,-8.007372,110,YZZ,No,Yes,Good,n/a,n/a,n/a,n/a,1,Bad,n/a,n/a,Vestígio,n/a,Yes,Yes,Yes,Rasteira,SAF,CTSR,SAF/CTSR
+Gonçala 3,4/2/2015,Mora,Pavia,38.944285,-8.008525,102,YZZ,Yes,Yes,Good,1.8,n/a,n/a,Circular,8,Bad,n/a,Yes,n/a,n/a,Yes,Yes,Yes,Rasteira,SAF,CTSR,SAF/CTSR
+Gonçala 4,4/2/2015,Mora,Pavia,38.940783,-8.019488,95,YZZ,No,Yes,Good,1.8,n/a,n/a,n/a,5,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,FMN/FA
+Herdade das Figueiras 1,4/2/2015,Mora,Pavia,38.904443,-7.984731,90,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,n/a,Tombado,Yes,n/a,n/a,Yes,No,Yes,Densa,SAF,SA,SAF/CTSR
+Herdade das Figueiras 2,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,2.2,n/a,n/a,n/a,n/a,n/a,n/a,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Jordana,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Destruído,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Lapeira 1,9/1/2013,Mora,Pavia,38.889791,-8.011501,0,YR,Yes,Yes,Good,3.4,2.5,n/a,Polygonal,7,Good,Yes,Yes,n/a,n/a,Yes,No,No,Densa,SAF,CT,SAF/CT
+Lapeira 2,9/1/2013,Mora,Pavia,38.8915,-8.009193,0,YR,Yes,Yes,Good,2.0,n/a,n/a,Polygonal,7,Good,n/a,No,n/a,n/a,Yes,No,No,Densa,SAF,SS,SAF/SS
+Lapeira 3,9/1/2013,Mora,Pavia,38.893295,-8.00285,0,YR,No,Yes,Bad,2.4,n/a,n/a,n/a,5,n/a,n/a,Yes,n/a,n/a,Yes,Yes,Yes,Rasteira,SAF,SA,SAF/SA
+Madre de Deus 1,4/2/2015,Mora,Pavia,38.929207,-8.082357,0,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,No,Muito Densa,SAF,SA,SAF/SA
+Madre de Deus 2,4/2/2015,Mora,Pavia,38.925153,-8.081207,173,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Destruída,n/a,n/a,n/a,n/a,Yes,No,No,Densa,SAF,SA,SAF/SA
+Madre de Deus 3,4/2/2015,Mora,Pavia,38.926232,-8.077516,162,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,2,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Densa,SAF,SA,SAF/SA
+Matalote 1,4/2/2015,Mora,Pavia,38.896853,-8.054024,140,YR,Yes,Yes,Good,2.5,n/a,n/a,Polygonal,7,Good,n/a,Yes,n/a,n/a,Yes,Yes,Yes,Densa,PAP,PAP,PAP
+Matalote 2,4/2/2015,Mora,Pavia,38.901719,-8.055517,142,YR,No,Yes,Good,n/a,n/a,n/a,n/a,3,Bad,Tombado,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,FMN,FPM,PAP-SAF/SA
+Monte das Figueiras,4/2/2015,Mora,Pavia,38.89029,-7.976577,176,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,FMN/FOF/FA
+Montinho de Cima,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,1.8,n/a,n/a,Polygonal,n/a,n/a,Yes,Yes,Yes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Monte do Lobo,4/2/2015,Mora,Pavia,38.997853,-8.199543,n/a,E,No,No,Good,2.0,n/a,n/a,Polygonal,5,Bad,No,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,SS,SAF/SS
+Oliveira 1,8/5/2017,Mora,Pavia,38.922059,-7.956443,136,PCC,Yes,Yes,Bad,2.7,n/a,n/a,Polygonal,7,Good,Yes,Yes,n/a,n/a,No,No,Yes,Zona de Plantação,SAF,SA,PAP
+Oliveira 2,8/5/2017,Mora,Pavia,38.922508,-7.955866,130,PCC,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Não localizada,n/a,n/a,n/a,n/a,Yes,No,Yes,Densa,SAF,SA,PAP
+Oliveira 3,8/5/2017,Mora,Pavia,38.924492,-7.95736,134,PCC,No,Yes,Bad,2.2,n/a,n/a,Polygonal,7,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,PAP
+Outeiro da Forca,8/5/2017,Mora,Pavia,38.880068,-8.01728,0,QQ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Destruída,n/a,n/a,n/a,n/a,No,No,No,Rasteira,SAF,SAFF,PAP-TA/ICE
+Píncaros 1,5/25/2013,Mora,Pavia,38.991844,-8.19102,n/a,YMM,No,No,Bad,2.0,n/a,n/a,Circular,3,Bad,Yes,n/a,n/a,n/a,Yes,Yes,No,Densa,SAF,SS,SAF/SS
+Píncaros 2,5/25/2013,Mora,Pavia,38.988573,-8.194168,n/a,YMM,No,No,Bad,n/a,n/a,n/a,Polygonal,5,Bad,No,n/a,n/a,n/a,Yes,No,No,Muito Densa,FMN,FS,FMN/FS
+Pucícaros 1,5/25/2013,Mora,Pavia,38.891349,-8.04089,0,QQ,No,Yes,Good,2.0,n/a,n/a,n/a,n/a,Não Localizada,n/a,n/a,n/a,n/a,Yes,No,Yes,Zona de Gado,SAF,SA,PAP
+Pucícaros 2,5/25/2013,Mora,Pavia,38.892699,-8.039159,0,QQ,No,Yes,Good,n/a,n/a,n/a,n/a,n/a,Destruida,n/a,n/a,n/a,n/a,Yes,No,No,Muito Densa,SAF,SA,PAP
+Reguengo,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Não Localizada,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Remendo 1,9/1/2013,Mora,Pavia,38.888584,-7.98096,160,YR,No,Yes,Bad,n/a,n/a,n/a,Polygonal,7,Good,n/a,n/a,n/a,n/a,Yes,Yes,No,Muito Densa,FMN,FA,FMN/FOF-SAF/SA
+Remendo 2,9/1/2013,Mora,Pavia,38.887221,-7.971743,160,YR,No,Yes,Bad,2.2,n/a,n/a,Polygonal,7,Good,Yes,n/a,n/a,n/a,No,Yes,Yes,Densa,SAF,SA,FMN/FOF
+São Dionísio 2,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Destruido,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+São Miguel 1,n/a,Mora,Pavia,n/a,n/a,n/a,n/a,No,n/a,n/a,n/a,n/a,n/a,n/a,2,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+São Miguel 2,9/1/2013,Mora,Pavia,38.877777,-7.982251,150,YR,No,Yes,Good,n/a,n/a,n/a,Circular,n/a,n/a,Tombado,Yes,n/a,Granito,Yes,No,Yes,Densa,SAF,SA,FMN/FOF
+São Miguel 3,9/1/2013,Mora,Pavia,38.889935,-7.980957,183,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,1,Bad,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,FMN,FA,FMN/FOF-SAF/SA
+São Miguel 4,9/1/2013,Mora,Pavia,38.877567,-7.982712,n/a,YR,Yes,No,Bad,2.0,n/a,n/a,Polygonal,5,Good,No,Yes,n/a,n/a,Yes,No,Yes,Densa,SAF,SA,SAF/SA
+São Miguel 5,9/1/2013,Mora,Pavia,38.882733,-8.001241,n/a,YR,No,No,Bad,n/a,n/a,n/a,n/a,2,Destruido,n/a,n/a,n/a,n/a,No,No,No,Muito Densa,FMN,FE,SAF/SA
+Seixinho 1,9/1/2013,Mora,Pavia,38.783738,-8.142875,n/a,YR,No,No,Good,n/a,n/a,n/a,Polygonal,n/a,n/a,n/a,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,SAF/SA
+Seixinho 2,9/1/2013,Mora,Pavia,38.783741,-8.140198,n/a,YR,Yes,No,Good,2.0,n/a,n/a,Polygonal,3,Good,No,n/a,n/a,n/a,Yes,Yes,Yes,Muito Densa,SAF,SA,SAF/SA
+Têra 1,9/1/2013,Mora,Pavia,38.901187,-7.974593,164,YZZ,No,Yes,Bad,n/a,n/a,n/a,Polygonal,7,Good,Yes,Yes,n/a,n/a,No,No,No,Densa,SAF,SA,SAF/SA
+Têra 3,9/1/2013,Mora,Pavia,38.897667,-7.969875,171,YZZ,No,Yes,Good,n/a,n/a,n/a,n/a,2,n/a,Yes,n/a,n/a,n/a,No,No,No,Densa,SAF,SA,SAF/CTSR
+Têra 4,9/1/2013,Mora,Pavia,38.896686,-7.976793,163,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,2,Bad,n/a,n/a,n/a,Granito,No,No,No,Densa,SAF,SA,SAF/SA
+Têra 5,9/1/2013,Mora,Pavia,38.890815,-7.965396,172,YZZ,No,Yes,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,Vestígio,Granito,No,No,No,Densa,SAF,SA,SAF/OLI/CTSR
+Têra 11,9/1/2013,Mora,Pavia,38.897321,-7.969323,n/a,YZZ,No,No,Bad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Yes,n/a,No,No,No,Densa,SAF,SA,SAF/SAFF
+Têra 12,9/1/2013,Mora,Pavia,38.890531,-7.965387,n/a,YZZ,Yes,No,Bad,n/a,n/a,n/a,n/a,n/a,Bad,n/a,n/a,n/a,n/a,No,No,No,Densa,PAP,PAP,SAF/SAFF
+Vale de El Rei 1,9/1/2013,Mora,Pavia,38.905527,-7.987034,155,YZZ,No,Yes,Bad,2.4,n/a,n/a,Polygonal,7,Partido,n/a,Yes,n/a,n/a,Yes,No,Yes,Zona de Plantação,SAF,SA,SAF/CTSR
